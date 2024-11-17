@@ -139,6 +139,7 @@ hello_to_user = "Hello! {user}"
 ### TOMLファイル以外のフォーマット（例: YAML）は使えますか？
 
 いいえ、現在のところTOMLのみの対応になっています。需要が高いようであればLocoYAMLのような別ライブラリを開発するかもしれません。
+JSONに関しては[LocoJSON](https://github.com/drago-suzuki58/LocoJSON)で現在使用可能です。
 
 ## 貢献
 

@@ -140,6 +140,7 @@ No, currently only TOML is supported. If there is high demand, we may develop a 
 ## Contribution
 
 LocoTOML is an open-source project! Bug reports and feature suggestions are welcome.
+JSON is currently available at [LocoJSON](https://github.com/drago-suzuki58/LocoJSON).
 
 ## Update Info
 
