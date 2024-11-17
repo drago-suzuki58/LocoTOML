@@ -1,0 +1,8 @@
+description = "多言語対応のコマンドラインツールサンプル"
+
+[help]
+lang = "使用する言語の指定"
+user = "ユーザー名の指定"
+
+[content]
+message = "こんにちは、{user}さん！"

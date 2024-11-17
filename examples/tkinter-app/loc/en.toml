@@ -1,0 +1,50 @@
+[label.file]
+new_file = "New File"
+new_folder = "New Folder"
+open_file = "Open File"
+open_folder = "Open Folder"
+quit = "Quit"
+
+[label.edit]
+undo = "Undo"
+redo = "Redo"
+cut = "Cut"
+copy = "Copy"
+paste = "Paste"
+delete = "Delete"
+select_all = "Select All"
+
+[label.view]
+reload = "Reload"
+toggle_fullscreen = "Toggle Fullscreen"
+toggle_devtools = "Toggle DevTools"
+
+[label.help]
+about = "About"
+
+[menubar]
+file = "File"
+edit = "Edit"
+view = "View"
+help = "Help"
+language = "Language"
+
+[content]
+title = "Tkinter demo app"
+message = "This app demonstrates only the translation feature of LocoTOML.\n Language change and a little demo are the only things implemented."
+
+[button]
+ok = "OK"
+cancel = "Cancel"
+
+[button.demo]
+error = "Error message demo"
+warning = "Warning message demo"
+
+[system.error]
+title = "Error message"
+message = "This is a demo of an error message."
+
+[system.warning]
+title = "Warning message"
+message = "This is a demo of a warning message."

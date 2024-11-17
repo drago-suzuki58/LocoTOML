@@ -1,0 +1,50 @@
+[label.file]
+new_file = "新規"
+new_folder = "新規フォルダ"
+open_file = "開く"
+open_folder = "フォルダを開く"
+quit = "終了"
+
+[label.edit]
+undo = "元に戻す"
+redo = "やり直し"
+cut = "切り取り"
+copy = "コピー"
+paste = "貼り付け"
+delete = "削除"
+select_all = "すべて選択"
+
+[label.view]
+reload = "再読み込み"
+toggle_fullscreen = "フルスクリーン"
+toggle_devtools = "開発者ツールの切り替え"
+
+[label.help]
+about = "このアプリについて"
+
+[menubar]
+file = "ファイル"
+edit = "編集"
+view = "表示"
+help = "ヘルプ"
+language = "言語"
+
+[content]
+title = "Tkinterアプリデモ"
+message = "このアプリは、LocoTOMLの翻訳機能のみをデモしています。\n言語変更と少しのデモのみしか実装されていません。"
+
+[button]
+ok = "OK"
+cancel = "キャンセル"
+
+[button.demo]
+error = "エラーメッセージデモ"
+warning = "警告メッセージデモ"
+
+[system.error]
+title = "エラーメッセージ"
+message = "エラーメッセージのデモです。"
+
+[system.warning]
+title = "警告メッセージ"
+message = "警告メッセージのデモです。"

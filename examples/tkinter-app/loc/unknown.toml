@@ -1,0 +1,3 @@
+[content]
+title = "Unknown language demo"
+message = "This is a demo of an unknown language. The language file is not found\nbecause the language is fallback"

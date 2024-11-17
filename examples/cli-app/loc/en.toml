@@ -1,0 +1,8 @@
+description = "A sample command line tool with multi-language support"
+
+[help]
+lang = "Specify the language to use"
+user = "Specify the user name"
+
+[content]
+message = "Hello, {user}!"
