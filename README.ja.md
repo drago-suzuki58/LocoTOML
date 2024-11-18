@@ -1,7 +1,7 @@
 # LocoTOML
 
 LocoTOMLは、Pythonで最も軽量なPythonプログラムの多言語対応のための全く新しいライブラリです。
-標準ライブラリのみを使用し、外部依存は全くありません。
+外部依存は`toml`のみで、外部依存がほぼありません。
 
 ただしLocoTOMLは、[LocoCore](https://github.com/drago-suzuki58/LocoCore)というコアライブラリに依存しています。LocoCoreは、共通の多言語対応機能を提供し、LocoTOMLはその上にTOML形式の翻訳機能を追加します。
 

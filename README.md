@@ -1,6 +1,6 @@
 # LocoTOML
 
-LocoTOML is a brand new library for multilingual support in Python programs, designed to be the lightest possible. It uses only the standard library and has no external dependencies.
+LocoTOML is a brand new library for multilingual support in Python programs, designed to be the lightest possible. The only external dependency is `toml`, and there are almost no external dependencies.
 
 However, LocoTOML depends on a core library called [LocoCore](https://github.com/drago-suzuki58/LocoCore). LocoCore provides common multilingual support features, and LocoTOML adds TOML-based translation functionality on top of it.
 
